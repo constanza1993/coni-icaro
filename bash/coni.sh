@@ -1,2 +1,7 @@
 #!/bin/bash
-hello world 
+
+echo Introduce un usuario
+read usuario
+echo  Bienvenido, $usuario
+ 
+ 
